@@ -1,4 +1,5 @@
 # DeepSeek UI
+<img width="1087" height="755" alt="image" src="https://github.com/user-attachments/assets/2b624d20-1572-4739-a924-78a3262ac545" />
 
 基于 **Electron** + **React** + **TypeScript** 的 DeepSeek 对话桌面客户端，支持流式回复、思考过程（reasoning）、多会话与本地持久化。
 
